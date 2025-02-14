@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab27b98ec2c54237af17bfa1b5299f3, type: 3}
+  m_Name: BodyArmor
+  m_EditorClassIdentifier: 
+  name: Chest Armor
+  icon: {fileID: 21300000, guid: da79386448806422ea7b71af1d5ea2cb, type: 3}
+  isDefaultItem: 1
+  itemModel: {fileID: 137107903090371408, guid: 0471b26de4de844cfb043104623304d2,
+    type: 2}
+  lootRadius: 0.32
+  armorEffect: 10
+  damageEffect: 5
+  equipmentSlot: 1
+  equipmentCoverRegions: 0200000001000000
